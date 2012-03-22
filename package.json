@@ -6,7 +6,6 @@
     "devices": [
       {
         "devices": ["phone","tablet"],
-        "startfile": "index.html",
         "price":{
           "eur": 200,
           "usd": 201
@@ -14,15 +13,13 @@
       },
       {
         "devices":"desktop",
-        "startfile": "index.html",
         "price":{
           "eur": 202,
           "usd": 203
         }
       },
       {
-        "devices":"tv",
-        "startfile": "index.html"
+        "devices":"tv"
       }
     ],
     "premium": true,
